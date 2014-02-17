@@ -20,7 +20,7 @@ history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 setup(
     name='pahodemo',
     version='0.1.0',
-    description='Paho library that connects seveveral raspberry pi's through MQTT',
+    description='Paho library that connects several raspberry pi\'s through MQTT',
     long_description=readme + '\n\n' + history,
     author='Marco Plaisier',
     author_email='m.plaisier@gmail.com',
